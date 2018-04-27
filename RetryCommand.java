@@ -1,5 +1,3 @@
-package com.expedia.lis.luisbot.processor;
-
 import java.util.function.Supplier;
 
 public class RetryCommand<T> {
